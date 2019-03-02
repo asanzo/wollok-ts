@@ -50,7 +50,7 @@ You might also want to copy the following configurations to your user settings (
 
 ### NPM
 
-You will also need to install [NPM](https://www.npmjs.com/). If you are not familiar with *dependency manager tools*, you can think of this program as the entry point for all the important tasks development-related tasks, like installing dependencies and running tests. After installing the client, go to the project root folder and run:
+You will also need to install [NPM](https://www.npmjs.com/). (Node.js version 8 or greater) If you are not familiar with *dependency manager tools*, you can think of this program as the entry point for all the important tasks development-related tasks, like installing dependencies and running tests. After installing the client, go to the project root folder and run:
 
 ```bash
 # This will install all the project dependencies. Give it some time.
